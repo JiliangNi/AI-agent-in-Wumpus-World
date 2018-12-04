@@ -1,0 +1,7 @@
+cd /home/jiliangn/Wumpus_World_Student-master/Wumpus_World_World_Generator
+
+make tournamentSet
+
+cd /home/jiliangn/Wumpus_World_Student-master/Wumpus_World_Python_Shell/src 
+
+python3 Main.py -f /home/jiliangn/Wumpus_World_Student-master/Wumpus_World_World_Generator/Worlds
